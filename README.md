@@ -1,2 +1,2 @@
 # milanpanic-milanpanic.github.io
-My CV
+Personal Home Page
